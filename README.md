@@ -1,4 +1,5 @@
-- 🦇 Hi, I’m @heplyfrancescodelgiudice
-- 👀 I’m interested in front-end: React, Vue, HTML, CSS
-- 🌱 I’m currently diving into Vue and React Native
-- 📫 How to reach me: francescodelgiudice@heply.it
+- 🦇 Hi, I’m @belivenfrancescodelgiudice
+- 🏢 I work as a Front-end developer and Chief Memes Officer @Beliven 
+- 👀 I’m interested in front-end: Vue, React, Ionic, HTML, CSS
+- 🌱 I’m currently diving into Vue and learning React Native
+- 📫 How to reach me: francesco.delgiudice@beliven.com
